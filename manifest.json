@@ -1,0 +1,17 @@
+{
+  "name": "Real Estate Manager",
+  "short_name": "Real Estate",
+  "description": "Real Estate and Property Management Application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8E9A58",
+  "theme_color": "#8E9A58",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
